@@ -1,27 +1,27 @@
-## X-URL-Uploader (Bot)
+## telegram file To Video Converter Bot With Permanent Thumbnail Support 
 ---
 
-Telegram RoBot to Upload Links.
+An Open Source Telegram Converter Bot Based On [Anydl](https://telegram.dog/spechide)
 
-**Features**:
+### Special thanks
 
-👉 Only Auth Users (AUTH_USERS) Can Use The Bot
+* [@Spechide](https://telegram.dog/spechide)
 
-👉 Upload [YTDL Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
+### Installation
 
-👉 Upload HTTP/HTTPS as File/Video to Telegram.
+#### The Easy Way
 
-**For Devs**:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-👉 [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
+## Our Telegram Channel
+
+* [Mai Bots](https://telegram.dog/Mai_bOTs)
 
 
-## Credits, and Thanks to:
 
-* [@TGExplore](https://t.me/ViruZs) for his [TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader)
-* [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
-#### LICENSE
+```
+start - Check if the Bot is Online!
+help - How to use this Bot?
+upgrade - Upgrade your status
+converttovideo - Convert to Streamable Video
 - GPLv3
